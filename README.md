@@ -26,4 +26,6 @@ Heute war Charlotte krank, weshalb ich alleine an unserem Porjekt weiter gearbei
 
 ### Mittwoch, 01.02.23
 Heute haben wir große Fortschritte gemacht. Nachdem ein erneutes Googeln von "Traceback" nichts gebracht hatte, haben wir Herrn Buhl gefragt. Dieser hat sich dann unser Programm angeguckt und festgestellt, dass wir bei "dates.split(''))" nur "single quotes" und auch kein Leerzeichen dazwischen hatten. nachdem wir das behoben hatten, lautete der Code folgendermaßen: "dates.split(" "))". Bei PyCharm funktionieren "single quotes" als "string literals", also z.B. 'My-identifier', aber "double quotes" funktionieren für strings, in denen single-quote-characters bereit selbst enthalten sind, auch genannt "natural language". Jetzt funktionierte auch unser Probedurchlauf und das Programm sagt zu jedem erdenklichen Datum den Wochentag. Bei Schaltjahren erkennt es auch den 29. Februar.  
+![Screenshot (34)](https://user-images.githubusercontent.com/111355300/215989005-ed48358b-dc20-496b-8114-43446a14d6c9.png)
+
 
