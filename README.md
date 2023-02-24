@@ -39,3 +39,6 @@ Heute haben wir zuerst den Blogeintrag von Freitag vervollständigt. Dann haben 
 
 ### Mittwoch, 22.02.23
 Letzten Freitag ist Informatik ausgefallen, da Europatag war. Heute haben wir erstmal einen kleinen Schrecken bekommen, denn PyCharm war nicht mehr installiert. Herr Buhl hat uns dann erklärt, dass der Rechner neu installiert wurde und PyCharm dementsprechend auch neu installiert werden muss. Das hat Herr Buhl dann getan und wir haben um unser Projekt gebangt, doch es war noch alles vorhanden und wir haben es nun auf IServ gespeichert in unserem Ordner. Leider hat das Installieren sehr lange gedauert, weshalb wir wenig geschafft haben, aber wir ghaben uns nochmal "import random" angeschaut und sind darauf gekommen, dass wir vorher die Klammern um "random" vergessen haben, genauso wie Unterstriche und es "__ import __ (random)" heißen muss, hier werden wir Freitag weiterarbeiten.
+
+### Freitag, 24.02.23
+Heute musste Mia zu einem Arzttermin, weswegen ich mit der Projektseite für unser neues Projekt begonnen habe. Dazu habe ich zunächst ein neues "Repository" auf 
