@@ -42,3 +42,13 @@ Letzten Freitag ist Informatik ausgefallen, da Europatag war. Heute haben wir er
 
 ### Freitag, 24.02.23
 Heute musste Mia zu einem Arzttermin, weswegen ich mit der Projektseite für unser neues Projekt begonnen habe. Dazu habe ich zunächst ein neues "Repository" auf [GitHub](www.github.com) erstellt und ein "README.md" hinzugefügt. Dann habe ich mich an unserer alten Projektseite aus dem 1 HJ orientiert und die Überschriften (Konzept, Programm, Code) übernommen und mit dem Ausdruck "<a name="(name)"></a>" das Inhaltsverzeichnis erstellt, sodass, wenn der Leser im Verzeichnis eine Überschrift anklickt, er zum dazugehörigen Absatz in der Projektseite kommt. Dann habe ich ein bisschen was zum Konzept und zum Programm geschrieben, soweit es mit dem jetzigen Stand unseres Projektes möglich ist. Im Laufe der Zeit können wir die Projektseite dann um weitere Informationen ergänzen.
+
+### Mittwoch, 01.03.23
+Heute haben wir Juliane um Hilfe gebeten, da sie auch mit Pycharm arbeitet. Sie hat uns einen Tipp gegeben, wie man Packages, wie z.B. ,,random" installiert, damit man es anschließend importieren kann. Zu aller erst muss man dafür bei dem Reiter ,,File" die ,,Settings" öffnen und das Projekt auswählen.
+![Screenshot (36)](https://user-images.githubusercontent.com/111355300/223655264-4609e751-6729-410c-9be6-296eef6b2062.png)
+Von da aus öffnet man den ,,Python Interpreter", den man für das Installieren den Packages benötigt.
+![Screenshot (37)](https://user-images.githubusercontent.com/111355300/223655534-64379163-1511-4a85-91a1-6c3cf9d00332.png)
+Nun kann man darüber ganz verschiedene Packages installieren, die verschiedene Befehle enthalten, die man später importieren und benutzen kann. In unserem Fall benötigen wir den Befehel ,,random", um unseren Zahlengenerator zu programmieren, da die Zahlen ja zufällig ausgewählt werden sollen. Daher haben wir nach ,,random" gesucht. Hier gibt es eine große Auswahl an Packages, wir haben uns für dass erste entschieden und dieses dann installiert. 
+![Screenshot (38)](https://user-images.githubusercontent.com/111355300/223656356-30464010-e857-4d38-a07a-523765a143e1.png)
+Nun kann man in dem Projekt ganz normal weiterarbeiten und mit dem Befehl ,,import" das Package importieren. Dazu schreibt man ,,import ,,Package Name"".
+![Screenshot (39)](https://user-images.githubusercontent.com/111355300/223656219-0044b638-4913-4f1b-93cf-e691b4a0dffb.png)
