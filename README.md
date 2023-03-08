@@ -52,3 +52,8 @@ Nun kann man darüber ganz verschiedene Packages installieren, die verschiedene 
 ![Screenshot (38)](https://user-images.githubusercontent.com/111355300/223656356-30464010-e857-4d38-a07a-523765a143e1.png)
 Nun kann man in dem Projekt ganz normal weiterarbeiten und mit dem Befehl ,,import" das Package importieren. Dazu schreibt man ,,import ,,Package Name"".
 ![Screenshot (39)](https://user-images.githubusercontent.com/111355300/223656219-0044b638-4913-4f1b-93cf-e691b4a0dffb.png)
+
+### Freitag, 03.03.23
+Heute ist schulfrei und wir würden gerne an unserem Projekt weiterarbeiten, doch leider mussten wir feststellen, dass unsere technischen Mittel zu Hause nicht ausreichend sind, um mit PycCharm zu arbeiten.
+
+
