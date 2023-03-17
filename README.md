@@ -64,9 +64,9 @@ Heute war ein kleiner Durchbruch für uns. Zuerst sind wir sehr verzweifelt gewe
 
 ![Screenshot (40)kopie](https://user-images.githubusercontent.com/111355300/225242916-d11c15bb-3294-4748-8ede-5e6fa6d07f91.png)
 
-### Mittwoch, 15.03.23
+### Mittwoch, 15.03.23 
 Heute haben wir weitergearbeitet. Ziel unseres Zufallsgenerators ist es, Zahlen zwischen 1 und 9 zu generieren. Dafür mussten wir in unseren Code das entsprechende Intervall von 1 bis 9 einfügen. Dafür gibt es mehrere Möglichkeiten, z.B. mit dem Befehl "randint" und den betreffenden Ziffern, die man in Parametern dahinter schreiben würde. Man kann dem Programm das Intervall aber auch einfügen mit einem Sternchen und den betreffenden Zahlen mit einem Pluszeichen dazwischen. Dabei muss die größere Zahl vornestehen, in unserem Fall wäre es also " * 9+1". Wir haben uns für die zweite Variante entschieden, da das Programm "randint" bei uns nicht erkannt hat und das mit den Parametern auch entsprechend nicht richtig funktioniert hatte. Am Ende unseres Codes haben wir dann noch den Befehl "print(zufallszahl)" eingefügt, so generiert das Programm dann die gewünschte Zufallszahl, die wir vorher unter der Variablen "zufallszahl" definiert haben. 
 ![Screenshot (40)](https://user-images.githubusercontent.com/111355300/225245442-72d9606d-1f6d-4f2b-92f8-e0fb52dc461e.png)
 
 ### Freitag, 17.03.23
-Heute haben wir wieder an unserem Projekt weiterarbeitet. Ziel war es, unser Programm ans Laufen zu kriegen und zu testen. Aus irgendeinem Grund klappte der Befehl "Run", mit dem man eigentlich das Programm testen können sollte, nicht so richtig. Uns wurde nicht eine Zufallszahl von 1 bis 9 angezeigt, sondern
+Heute haben wir wieder an unserem Projekt weiterarbeitet. Ziel war es, unser Programm ans Laufen zu kriegen und zu testen. Aus irgendeinem Grund klappte der Befehl "Run", mit dem man eigentlich das Programm testen können sollte, nicht so richtig. Uns wurde nicht eine Zufallszahl von 1 bis 9 angezeigt, sondern "function"
