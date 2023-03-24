@@ -76,3 +76,7 @@ Heute waren mündliche Sprechprüfungen in Englsich weshalb Informatik ausfiel.
 
 ### Freitag, 24.03.23
 Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner weitergearbeitet, da der ABgabetermin immer näher rückt. Dafür haben wir uns ein Bild von unserem Code gemacht und diesen vom ersten bis zum letzten Schritt genaustens erklärt und mit Beispielen verdeutlicht. ANgefangen davon wie wir den Kalendar importiert haben, über die Weise wie PyCharm Daten liest zu der Definition der Wochentage, bis hin zur AUsgabe des Wochentages zum passenden Datum. Das war eigentlich nochmal eine gute Erfahrung, um sich nochmal genau bewusst zu machen, was man wie wo programmiert hat. Wir haben probiert es genaustens zu erklären, sodass man den Code versteht, auch wennn man keine Ahnung von Programmieren hat.
+![Screenshot (41)](https://user-images.githubusercontent.com/111355300/227515975-37dd0ead-ddbd-4cbe-acca-3113bc2c92a6.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/111355300/227516000-740e050b-09fc-4fe7-ad44-027bf6120884.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/111355300/227516025-7c4e8fcb-8d36-4c6a-820f-50e79b62d701.png)
+
