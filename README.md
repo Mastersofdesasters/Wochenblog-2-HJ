@@ -80,3 +80,9 @@ Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner
 ![Screenshot (42)](https://user-images.githubusercontent.com/111355300/227516000-740e050b-09fc-4fe7-ad44-027bf6120884.png)
 ![Screenshot (43)](https://user-images.githubusercontent.com/111355300/227516025-7c4e8fcb-8d36-4c6a-820f-50e79b62d701.png)
 
+![Screenshot (47)](https://user-images.githubusercontent.com/111355300/229104114-480a501f-aebb-48e7-94bc-840a5354f6a1.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/111355300/229104142-fa8ca8cf-574f-48c3-bae9-a528cf507838.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/111355300/229104178-9c4fa9e6-e3f7-4e17-8b4a-51181c3e766b.png)
+
