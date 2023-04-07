@@ -82,7 +82,7 @@ Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner
 
 ### Freitag, 31.03.23
 Dieser Eintrag kommt etwas verspätet, da wir am Freitag die ganze Zeit noch versucht haben, an unserem Projekt weiterzuarbeiten. 
-Am Freitag haben wir uns damit beschäftigt
+Am Freitag haben wir uns damit beschäftigt, einen Zusatz zu unserem Programm zu gestalten. Ziel war es, dass das Programm des Datumsgenerators mit dem Nutzer kommuniziert: Durch
 ![Screenshot (47)](https://user-images.githubusercontent.com/111355300/229104114-480a501f-aebb-48e7-94bc-840a5354f6a1.png)
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/111355300/229104142-fa8ca8cf-574f-48c3-bae9-a528cf507838.png)
