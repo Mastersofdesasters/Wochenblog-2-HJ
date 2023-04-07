@@ -83,10 +83,10 @@ Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner
 ### Freitag, 31.03.23
 Dieser Eintrag kommt etwas verspätet, da wir am Freitag die ganze Zeit noch versucht haben, an unserem Projekt weiterzuarbeiten. 
 Am Freitag haben wir uns damit beschäftigt, einen Zusatz zu unserem Programm zu gestalten. Ziel war es, dass das Programm des Datumsgenerators mit dem Nutzer kommuniziert: Durch den Befehl "benutzereingabe = input ("Wann hast du Geburtstag?")" sollte das Programm den Benutzer fragen, an welchem Tag er Geburtstag hat. Nach dessen Eingabe des Datums (bestehend aus Tag/Monat/Jahr) sollte das Programm dieses unten anzeigen (durch den Befehl "print(benutzereingabe)" und anschließend, im Prinzip wie vorher mit den von uns direkt in Zeile 15 bei "date" eingegebenen Daten den Wochentag dieses Datums bestimmen und ihn danach dem Benutzer im Feld unter dem Code anzeigen. Allerdings stießen wir dabei auf einige Probleme: Solange das vom Benutzer eingegebene Datum mit dem bei "date" stehenden Datum übereinstimmte, zeigte das Programm den richtigen Wochentag an, siehe im Screenshot unten:
-
 ![Screenshot (47)](https://user-images.githubusercontent.com/111355300/229104114-480a501f-aebb-48e7-94bc-840a5354f6a1.png)
 
+Stand bei "date" jedoch ein anderes Datum als das, was vom Benutzer eingegeben war, so bestimmt das Programm nicht den Wochentag des Benutzerdatums, sondern leider den Wochentag des Datums, der bei "date" stand. Zwar haben wir uns mehrere Tutorials durchgelesen und versucht, das Problem zu beheben, aber es hat leider nicht geklappt. Auch konnten wir zuhause es nicht weiter probieren, da uns die technischen Mittel dazu fehlen. 
 ![Screenshot (45)](https://user-images.githubusercontent.com/111355300/229104142-fa8ca8cf-574f-48c3-bae9-a528cf507838.png)
-
+Unter anderem haben wir versucht, bei "date", anstelle des Datums, "input" einzugeben, in der Hoffnung, dass das Programm dann automatisch das vom Benutzer eingegebene Datum verwenden würde. Dies hat jedoch auch nur zu der Fehlermedlung "traceback" geführt (s. Screenshot unten).
 ![Screenshot (46)](https://user-images.githubusercontent.com/111355300/229104178-9c4fa9e6-e3f7-4e17-8b4a-51181c3e766b.png)
 
