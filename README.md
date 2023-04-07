@@ -72,17 +72,18 @@ Heute haben wir weitergearbeitet. Ziel unseres Zufallsgenerators ist es, Zahlen 
 Heute haben wir wieder an unserem Projekt weiterarbeitet. Ziel war es, unser Programm ans Laufen zu kriegen und zu testen. Aus irgendeinem Grund klappte der Befehl "Run", mit dem man eigentlich das Programm testen können sollte, nicht so richtig. Uns wurde nicht eine Zufallszahl von 1 bis 9 angezeigt, sondern "function"
 
 ### Mittwoch, 22.03.23
-Heute waren mündliche Sprechprüfungen in Englsich weshalb Informatik ausfiel.
+Heute waren mündliche Sprechprüfungen in Englisch, weshalb Informatik ausfiel.
 
 ### Freitag, 24.03.23
-Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner weitergearbeitet, da der ABgabetermin immer näher rückt. Dafür haben wir uns ein Bild von unserem Code gemacht und diesen vom ersten bis zum letzten Schritt genaustens erklärt und mit Beispielen verdeutlicht. ANgefangen davon wie wir den Kalendar importiert haben, über die Weise wie PyCharm Daten liest zu der Definition der Wochentage, bis hin zur AUsgabe des Wochentages zum passenden Datum. Das war eigentlich nochmal eine gute Erfahrung, um sich nochmal genau bewusst zu machen, was man wie wo programmiert hat. Wir haben probiert es genaustens zu erklären, sodass man den Code versteht, auch wennn man keine Ahnung von Programmieren hat.
+Heute haben wir an der Projektseite zu unserem ersten Projekt, dem Datumsrechner weitergearbeitet, da der ABgabetermin immer näher rückt. Dafür haben wir uns ein Bild von unserem Code gemacht und diesen vom ersten bis zum letzten Schritt genaustens erklärt und mit Beispielen verdeutlicht. ANgefangen davon wie wir den Kalendar importiert haben, über die Weise wie PyCharm Daten liest zu der Definition der Wochentage, bis hin zur AUsgabe des Wochentages zum passenden Datum. Das war eigentlich nochmal eine gute Erfahrung, um sich nochmal genau bewusst zu machen, was man wie wo programmiert hat. Wir haben probiert es genaustens zu erklären, sodass man den Code versteht, auch wennn man keine Ahnung vom Programmieren hat.
 ![Screenshot (41)](https://user-images.githubusercontent.com/111355300/227515975-37dd0ead-ddbd-4cbe-acca-3113bc2c92a6.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/111355300/227516000-740e050b-09fc-4fe7-ad44-027bf6120884.png)
 ![Screenshot (43)](https://user-images.githubusercontent.com/111355300/227516025-7c4e8fcb-8d36-4c6a-820f-50e79b62d701.png)
 
 ### Freitag, 31.03.23
 Dieser Eintrag kommt etwas verspätet, da wir am Freitag die ganze Zeit noch versucht haben, an unserem Projekt weiterzuarbeiten. 
-Am Freitag haben wir uns damit beschäftigt, einen Zusatz zu unserem Programm zu gestalten. Ziel war es, dass das Programm des Datumsgenerators mit dem Nutzer kommuniziert: Durch
+Am Freitag haben wir uns damit beschäftigt, einen Zusatz zu unserem Programm zu gestalten. Ziel war es, dass das Programm des Datumsgenerators mit dem Nutzer kommuniziert: Durch den Befehl "benutzereingabe = input ("Wann hast du Geburtstag?")" sollte das Programm den Benutzer fragen, an welchem Tag er Geburtstag hat. Nach dessen Eingabe des Datums (bestehend aus Tag/Monat/Jahr) sollte das Programm dieses unten anzeigen (durch den Befehl "print(benutzereingabe)" und anschließend, im Prinzip wie vorher mit den von uns direkt in Zeile 15 bei "date" eingegebenen Daten den Wochentag dieses Datums bestimmen und ihn danach dem Benutzer im Feld unter dem Code anzeigen. Allerdings stießen wir dabei auf einige Probleme: Solange das vom Benutzer eingegebene Datum mit dem bei "date" stehenden Datum übereinstimmte, zeigte das Programm den richtigen Wochentag an, siehe im Screenshot unten:
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/111355300/229104114-480a501f-aebb-48e7-94bc-840a5354f6a1.png)
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/111355300/229104142-fa8ca8cf-574f-48c3-bae9-a528cf507838.png)
